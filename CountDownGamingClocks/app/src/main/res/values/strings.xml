@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CountDownGamingClocks</string>
+    <string name="cod"><b><font size="50">Call of Duty World War II</font></b></string>
+    <string name="playstation"><b><font size="23">PlayStation 4</font></b></string>
+    <string name="xbox"><b><font size="23">Xbox One</font></b></string>
+    <string name="watch"><b><font size="23">Watchlist</font></b></string>
+</resources>

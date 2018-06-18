@@ -1,0 +1,222 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.gms:play-services-ads:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\f16605506609f4cd9fd7e0efe6fb05ab\AndroidManifest.xml:16:1-18:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-gass:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\39c2fb1525b0956bfeaa1fdf2ee15faa\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:16:1-23:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.0.aar\bdeec2e4afd2e53f93d13487ba00c648\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.0.aar\2af4b4f83cd0a148be1133036372c8b6\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\fdef4e5048c559a04f39c5c692019fbe\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.0.aar\8ecf724373fd217312c109f7efbc3de3\AndroidManifest.xml:2:1-6:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:6:5-35:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-gass:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\39c2fb1525b0956bfeaa1fdf2ee15faa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\39c2fb1525b0956bfeaa1fdf2ee15faa\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.0.aar\bdeec2e4afd2e53f93d13487ba00c648\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.0.aar\bdeec2e4afd2e53f93d13487ba00c648\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.0.aar\2af4b4f83cd0a148be1133036372c8b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.0.aar\2af4b4f83cd0a148be1133036372c8b6\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\fdef4e5048c559a04f39c5c692019fbe\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\fdef4e5048c559a04f39c5c692019fbe\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.0.aar\8ecf724373fd217312c109f7efbc3de3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.0.aar\8ecf724373fd217312c109f7efbc3de3\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.jason.countdowngamingclocks.MainActivity
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.jason.countdowngamingclocks.playstation4Games
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:19:19-52
+intent-filter#action:name:com.example.jason.countdowngamingclocks.playstation4Games+category:name:android.intent.category.DEFAULT
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:20:13-24:29
+action#com.example.jason.countdowngamingclocks.playstation4Games
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:21:17-100
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:21:25-97
+category#android.intent.category.DEFAULT
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:23:27-73
+activity#com.example.jason.countdowngamingclocks.XBoxOneGames
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:label
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:27:19-43
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:26:19-47
+intent-filter#action:name:com.example.jason.countdowngamingclocks.XBoxOneGames+category:name:android.intent.category.DEFAULT
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:28:13-33:29
+action#com.example.jason.countdowngamingclocks.XBoxOneGames
+ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:29:17-95
+	android:name
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml:29:25-92
+uses-sdk
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\f16605506609f4cd9fd7e0efe6fb05ab\AndroidManifest.xml:17:5-94
+MERGED from [com.google.android.gms:play-services-ads:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\f16605506609f4cd9fd7e0efe6fb05ab\AndroidManifest.xml:17:5-94
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\39c2fb1525b0956bfeaa1fdf2ee15faa\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.6.0.aar\39c2fb1525b0956bfeaa1fdf2ee15faa\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.0.aar\bdeec2e4afd2e53f93d13487ba00c648\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.6.0.aar\bdeec2e4afd2e53f93d13487ba00c648\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.0.aar\2af4b4f83cd0a148be1133036372c8b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.6.0.aar\2af4b4f83cd0a148be1133036372c8b6\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\fdef4e5048c559a04f39c5c692019fbe\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.0.aar\fdef4e5048c559a04f39c5c692019fbe\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.0.aar\8ecf724373fd217312c109f7efbc3de3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.6.0.aar\8ecf724373fd217312c109f7efbc3de3\AndroidManifest.xml:4:5-43
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.6.0.aar\f16605506609f4cd9fd7e0efe6fb05ab\AndroidManifest.xml:17:42-92
+	android:targetSdkVersion
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		ADDED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+		INJECTED from D:\studioProjects\countdownGamingClocks\CountDownGamingClocks\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.4.0.aar\faf613659ca7432f8ae53af398fd7a4b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.4.0.aar\29bfec084d64098c9d930ded6b6c1e16\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-v4-25.4.0.aar\80f3a093a4e4259b10c6ca729bfc038d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-fragment-25.4.0.aar\925da1636b37cfbebe3ca315a228b932\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.4.0.aar\47dede4d607979d717db3856672731f5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.4.0.aar\ef1429d4de4d43b0e35ba721d05a93c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.4.0.aar\0bdce11c8284e420ec4319a6fe4de5b9\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\support-compat-25.4.0.aar\43bfd2007a0d9464287de62179ec7811\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.4.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.4.0.aar\00e7f407258dee5d9396525a9d32b305\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:25:9-257
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:25:231-255
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.6.0.aar\fe69b34d2a7a3f1e41976d9a7a7a4aa0\AndroidManifest.xml:25:19-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\Jason\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.0.aar\e7eae75a61bc9da8aa8af2d6f893f2a1\AndroidManifest.xml:20:20-65

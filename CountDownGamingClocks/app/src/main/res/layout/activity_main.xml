@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/btnPs4Games"
+            android:layout_width="200dp"
+            android:layout_height="75dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="66dp"
+            android:onClick="btn_playstation4_OnClick"
+            android:text="@string/playstation"
+            android:textSize="12px" />
+
+        <Button
+            android:id="@+id/btnXboxOneGames"
+            android:layout_width="200dp"
+            android:layout_height="75dp"
+            android:layout_alignLeft="@+id/btnPs4Games"
+            android:layout_alignStart="@+id/btnPs4Games"
+            android:layout_below="@+id/btnPs4Games"
+            android:layout_marginTop="20dp"
+            android:onClick="btn_XBoxOne_OnClick"
+            android:text="@string/xbox" />
+
+        <Button
+            android:id="@+id/BtnWatchList"
+            android:layout_width="200dp"
+            android:layout_height="75dp"
+            android:layout_alignLeft="@+id/btnXboxOneGames"
+            android:layout_alignStart="@+id/btnXboxOneGames"
+            android:layout_below="@+id/btnXboxOneGames"
+            android:layout_marginTop="20dp"
+            android:text="@string/watch" />
+
+        <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adViewMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentStart="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-3940256099942544/6300978111"></com.google.android.gms.ads.AdView>
+</RelativeLayout>
+
